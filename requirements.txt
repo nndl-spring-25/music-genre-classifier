@@ -1,0 +1,6 @@
+ipykernel
+kagglehub
+librosa
+numpy
+pandas
+matplotlib
