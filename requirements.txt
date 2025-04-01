@@ -5,3 +5,7 @@ librosa
 numpy
 pandas
 matplotlib
+xgboost
+scikit-learn
+seaborn
+scipy
